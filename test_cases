@@ -1,0 +1,68 @@
+Test Case 1:
+{
+  "method": "find_k_nearest_neighbors",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 1
+}
+
+Test Case 2:
+{
+  "method": "predict_label",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 1
+}
+
+Test Case 3:
+{
+  "method": "find_k_nearest_neighbors",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 3
+}
+
+Test Case 4:
+{
+  "method": "predict_label",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 3
+}
+Test Case 5:
+{
+  "method": "find_k_nearest_neighbors",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 5
+}
+
+Test Case 6:
+{
+  "method": "predict_label",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 5
+}
+
+Test Case 7
+{
+  "method": "find_k_nearest_neighbors",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 7
+}
+
+Test Case 8
+{
+  "method": "predict_label",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 7
+}
+
+Test Case 9
+{
+  "method": "find_k_nearest_neighbors",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 9
+}
+
+Test Case 10
+{
+  "method": "predict_label",
+  "features": [4.30936122, 4.28739283, 4.29680938, 4.33571647, 4.28774593],
+  "k": 9
+}
